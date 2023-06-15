@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yakhub/](https://www.linkedin.com/in/yakhub/)
 
-- ⚡ Fun fact **Transforming ideas into digital works of art**
+- ⚡ Fun fact **Travel enthusiast and explorer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
