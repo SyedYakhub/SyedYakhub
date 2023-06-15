@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/blue-technology-digital-banner-design_1017-32257.jpg?w=2000&t=st=1686814964~exp=1686815564~hmac=1bbec41bf4caecdba8547f6d9ea6842e916c9abfcc6ee84135857ad01bac061a)
 <h1 align="center">Hi 👋, I'm Syed Yakhub</h1>
-<h3 align="center">I am highly motivated and passionate about leveraging my problem-solving abilities to deliver effective solutions that align with both business objectives and user needs.</h3>
+<h3 align="center">Passionate about leveraging my problem-solving abilities to deliver effective solutions that align with both business objectives and user needs.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3oEjHH6uarNnFSIEWQ/giphy.gif">
 
 
