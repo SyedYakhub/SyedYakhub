@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedyakhub&label=Profile%20views&color=0e75b6&style=flat" alt="syedyakhub" /> </p>
 
-- 💬 Ask me about **Cloud & DevOps**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **syedyakhub9966@gmail.com**
 
